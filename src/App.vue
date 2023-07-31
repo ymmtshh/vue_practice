@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Person from './components/Person.vue'
+import Persons from './components/Persons.vue'
 </script>
 
 <template>
-  <Person></Person>
+  <Persons />
 </template>
 
 <style scoped>
